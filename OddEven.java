@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Aurbhai {
+class CheckEvenOdd {
     
 }
 
