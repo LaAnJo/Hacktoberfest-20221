@@ -1,4 +1,4 @@
-
+//java program to shift all zeros in array at the end(to right side) of array of numbers
 public class Main {
     public static void main(String[] args)
     {
