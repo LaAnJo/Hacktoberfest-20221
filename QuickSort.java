@@ -1,5 +1,5 @@
 //Quick sort implementation in java
-public class Quick  
+class Quick  
 {  
     /* function that consider last element as pivot,  
 place the pivot at its exact position, and place  

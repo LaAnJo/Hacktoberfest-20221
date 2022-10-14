@@ -1,5 +1,5 @@
 //insertion sort implementation in java
-public class InsertionSortExample {  
+class InsertionSortExample {  
     public static void insertionSort(int array[]) {  
         int n = array.length;  
         for (int j = 1; j < n; j++) {  
