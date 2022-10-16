@@ -27,6 +27,7 @@ public class StonePaperScissor
         int max=3;
 
         int s1=0,s2=0,s3=0;
+        input.close();
 
         String c1="",c2="",c3="";
 

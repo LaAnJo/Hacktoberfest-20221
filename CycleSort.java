@@ -1,8 +1,8 @@
 
 // Java program to implement cycle sort
 
-import java.util.*;
-import java.lang.*;
+//import java.util.*;
+//import java.lang.*;
 
 class GFG
 {
