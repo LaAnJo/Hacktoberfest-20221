@@ -1,4 +1,4 @@
-package com.topics.algorithms.dynamicProgramming;
+
 
 public class KnapSack {
     // maximum of two integers
