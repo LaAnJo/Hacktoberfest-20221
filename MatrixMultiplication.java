@@ -1,4 +1,4 @@
-package com.topics.algorithms.dynamicProgramming;
+
 
 public class   MatrixMultiplication {
     static int MatrixChainOrder(int p[], int n) {
